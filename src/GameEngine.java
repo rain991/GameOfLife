@@ -1,4 +1,5 @@
 import java.util.Arrays;
+
 // Zrobil Ivan Savenko
 // Miesci silnik gry
 abstract class GameEngine {
